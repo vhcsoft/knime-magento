@@ -1,1 +1,5 @@
 .metadata/
+Example Workflows/
+*.project
+magento-products/.savedWithData
+magento-products/.DS_Store
