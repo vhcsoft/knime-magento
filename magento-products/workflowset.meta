@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+  <met:element form="text" name="Author">Maarit Laukkanen</met:element>
+  <met:element form="date" name="Creation Date">3/8/2018/14:12:21 +02:00</met:element>
+  <met:element form="multiline" name="Comments">String Manipulation, Math Formula and Rule Engine Example
+
+This workflow shows three different data manipulation operations, namely: - creating three cateogries of people based on their weekly work hours with the Rule Engine node - rounding up people's age to the nearest 10 with the Math Formula node - replacing hyphens with " " characters in the native country column
+
+VIDEO: Data Manipulation: Numbers, Strings, and Rules https://www.youtube.com/watch?v=mJrBXmLQ4ko&amp;feature=youtu.be
+TAG: ETL, data manipulation, string manipulation, strings, numbers. math, math formula, data transformation, data wrangling, rules, rule engine</met:element>
+  <met:element form="text" name="Last Uploaded" read-only="true">2018-12-10 10:06:13 +0100</met:element>
+  <met:element form="text" name="Last Edited" read-only="true">2018-11-08 10:19:03 +0100</met:element>
+</met:KNIMEMetaInfo>
