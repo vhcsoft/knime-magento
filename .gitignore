@@ -3,3 +3,6 @@ Example Workflows/
 *.project
 magento-products/.savedWithData
 magento-products/.DS_Store
+scrapy/weboctopus/spiders/__pycache__/
+scrapy/weboctopus/download/
+scrapy/weboctopus/__pycache__/
